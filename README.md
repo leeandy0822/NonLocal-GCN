@@ -8,7 +8,7 @@ We want to test the difference and the performance of different non-local operat
 
 - The training code is inside train.py , you can change the network architecture if you want 
 
-### Packages and others work: 
+### Citations: 
 - MNIST GCN
     - (https://qiita.com/DNA1980/items/8c8258c9a566ea9ea5fc)
 - Non-local_pytorch
