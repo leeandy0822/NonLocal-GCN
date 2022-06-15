@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data loaded 60000  Complete!
+/home/leeandy/anaconda3/lib/python3.9/site-packages/torch_geometric/deprecation.py:12: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Start Train
+
+
+
+
+epoch: 1 loss: 1.935  Test Accuracy: 49.08 %%  Test Loss: 1.432
+
+
+
+
+epoch: 2 loss: 1.381  Test Accuracy: 54.64 %%  Test Loss: 1.277
+
+
+
+
+epoch: 3 loss: 1.243  Test Accuracy: 59.23 %%  Test Loss: 1.157
+
+
+
+
+epoch: 4 loss: 1.126  Test Accuracy: 66.00 %%  Test Loss: 1.026
+
+
+
+
+epoch: 5 loss: 1.041  Test Accuracy: 67.81 %%  Test Loss: 0.945
+
+
+
+
+epoch: 6 loss: 0.971  Test Accuracy: 69.92 %%  Test Loss: 0.892
+
+
+
+
+epoch: 7 loss: 0.910  Test Accuracy: 72.11 %%  Test Loss: 0.835
+
+
+
+
+epoch: 8 loss: 0.864  Test Accuracy: 73.17 %%  Test Loss: 0.800
+
+
+
+
+epoch: 9 loss: 0.830  Test Accuracy: 74.11 %%  Test Loss: 0.780
+
+
+
+
+epoch: 10 loss: 0.799  Test Accuracy: 75.29 %%  Test Loss: 0.738
+
+
+
+
+epoch: 11 loss: 0.769  Test Accuracy: 74.45 %%  Test Loss: 0.760
+
+
+
+
+
+epoch: 12 loss: 0.745  Test Accuracy: 77.08 %%  Test Loss: 0.691
+
+
+
+
+epoch: 13 loss: 0.725  Test Accuracy: 77.83 %%  Test Loss: 0.685
+
+
+
+
+epoch: 14 loss: 0.707  Test Accuracy: 78.82 %%  Test Loss: 0.660
+
+
+
+
+epoch: 15 loss: 0.685  Test Accuracy: 79.01 %%  Test Loss: 0.643
+Finished Training
+Accuracy: 79.01 %%

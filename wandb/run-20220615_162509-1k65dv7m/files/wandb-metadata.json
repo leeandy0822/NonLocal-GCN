@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.13.0-44-generic-x86_64-with-glibc2.31",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-15T08:25:11.443922",
+    "startedAt": "2022-06-15T08:25:09.693110",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/leeandy/NonLocal-GCN/train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "git@github.com:leeandy0822/NonLocal-GCN.git",
+        "commit": "38198f9a73b2b350941ad5296cd8c7b60b51f49f"
+    },
+    "email": "leeandy90833@gmail.com",
+    "root": "/home/leeandy/NonLocal-GCN",
+    "host": "leeandy-msi",
+    "username": "leeandy",
+    "executable": "/home/leeandy/anaconda3/bin/python"
+}

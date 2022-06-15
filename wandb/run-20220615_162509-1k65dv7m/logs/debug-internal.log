@@ -1,0 +1,34 @@
+2022-06-15 16:25:10,960 INFO    MainThread:2021014 [internal.py:wandb_internal():90] W&B internal server running at pid: 2021014, started at: 2022-06-15 16:25:10.960595
+2022-06-15 16:25:10,964 INFO    WriterThread:2021014 [datastore.py:open_for_write():75] open: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/run-1k65dv7m.wandb
+2022-06-15 16:25:10,967 DEBUG   SenderThread:2021014 [sender.py:send():235] send: header
+2022-06-15 16:25:10,967 DEBUG   SenderThread:2021014 [sender.py:send():235] send: run
+2022-06-15 16:25:11,239 DEBUG   HandlerThread:2021014 [handler.py:handle_request():141] handle_request: check_version
+2022-06-15 16:25:11,259 INFO    SenderThread:2021014 [dir_watcher.py:__init__():205] watching files in: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/files
+2022-06-15 16:25:11,259 INFO    SenderThread:2021014 [sender.py:_start_run_threads():812] run started: 1k65dv7m with start time 1655281509
+2022-06-15 16:25:11,259 DEBUG   SenderThread:2021014 [sender.py:send():235] send: summary
+2022-06-15 16:25:11,260 INFO    SenderThread:2021014 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-06-15 16:25:11,260 DEBUG   SenderThread:2021014 [sender.py:send_request():249] send_request: check_version
+2022-06-15 16:25:11,441 DEBUG   HandlerThread:2021014 [handler.py:handle_request():141] handle_request: run_start
+2022-06-15 16:25:11,443 DEBUG   HandlerThread:2021014 [meta.py:__init__():35] meta init
+2022-06-15 16:25:11,443 DEBUG   HandlerThread:2021014 [meta.py:__init__():49] meta init done
+2022-06-15 16:25:11,443 DEBUG   HandlerThread:2021014 [meta.py:probe():209] probe
+2022-06-15 16:25:11,450 DEBUG   HandlerThread:2021014 [meta.py:_setup_git():199] setup git
+2022-06-15 16:25:11,462 DEBUG   HandlerThread:2021014 [meta.py:_setup_git():206] setup git done
+2022-06-15 16:25:11,463 DEBUG   HandlerThread:2021014 [meta.py:_save_pip():53] save pip
+2022-06-15 16:25:11,464 DEBUG   HandlerThread:2021014 [meta.py:_save_pip():67] save pip done
+2022-06-15 16:25:11,464 DEBUG   HandlerThread:2021014 [meta.py:_save_conda():74] save conda
+2022-06-15 16:25:12,262 INFO    Thread-13 :2021014 [dir_watcher.py:_on_file_created():256] file/dir created: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/files/wandb-summary.json
+2022-06-15 16:25:12,262 INFO    Thread-13 :2021014 [dir_watcher.py:_on_file_created():256] file/dir created: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/files/conda-environment.yaml
+2022-06-15 16:25:12,262 INFO    Thread-13 :2021014 [dir_watcher.py:_on_file_created():256] file/dir created: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/files/requirements.txt
+2022-06-15 16:25:15,149 DEBUG   HandlerThread:2021014 [meta.py:_save_conda():84] save conda done
+2022-06-15 16:25:15,149 DEBUG   HandlerThread:2021014 [meta.py:probe():247] probe done
+2022-06-15 16:25:15,153 DEBUG   SenderThread:2021014 [sender.py:send():235] send: files
+2022-06-15 16:25:15,153 INFO    SenderThread:2021014 [sender.py:_save_file():949] saving file wandb-metadata.json with policy now
+2022-06-15 16:25:15,159 DEBUG   HandlerThread:2021014 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-15 16:25:15,160 DEBUG   SenderThread:2021014 [sender.py:send_request():249] send_request: stop_status
+2022-06-15 16:25:15,260 INFO    Thread-13 :2021014 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/files/conda-environment.yaml
+2022-06-15 16:25:15,260 INFO    Thread-13 :2021014 [dir_watcher.py:_on_file_created():256] file/dir created: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/files/wandb-metadata.json
+2022-06-15 16:25:15,261 INFO    Thread-13 :2021014 [dir_watcher.py:_on_file_created():256] file/dir created: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/files/output.log
+2022-06-15 16:25:15,363 DEBUG   SenderThread:2021014 [sender.py:send():235] send: telemetry
+2022-06-15 16:25:15,703 INFO    Thread-17 :2021014 [upload_job.py:push():132] Uploaded file /tmp/tmp31obkr7zwandb/a5y6cnm4-wandb-metadata.json
+2022-06-15 16:25:17,262 INFO    Thread-13 :2021014 [dir_watcher.py:_on_file_modified():269] file/dir modified: /home/leeandy/NonLocal-GCN/wandb/run-20220615_162509-1k65dv7m/files/output.log
