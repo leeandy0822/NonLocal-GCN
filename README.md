@@ -3,6 +3,11 @@
 In this work, we present non-local operator combination with the GCN network for mnist number classification.
 We want to test the difference and the performance of different non-local operator comparing to the classifcal GCN network.
 
+# Presentation
+[LINK](https://docs.google.com/presentation/d/1iiyQROx4b8Xbw9EEzydcFCRy7YKd4TD2fby7ncrDBvg/edit?usp=sharing)
+![](https://i.imgur.com/ZYynkPe.png)
+![](https://i.imgur.com/lI8McVZ.png)
+
 # Usage
 - install pytorch-geometric (You may need to use conda)
 
