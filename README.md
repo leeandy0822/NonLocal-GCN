@@ -1,6 +1,7 @@
 # NonLocal-GCN
 
 In this work, we present non-local operator combination with the GCN network for mnist number classification. The mnist dataset will first turn into graph by the top-75 light pixels.We want to test the difference and the performance of different non-local operator comparing to the classifcal GCN network.
+
 ![](https://i.imgur.com/1zts09v.png)
 
 ## Presentation
